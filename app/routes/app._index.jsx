@@ -27,7 +27,7 @@ export default function Index() {
               When an order is placed, the app will:
             </Text>
             <ul>
-              <li>Check for "base layer" tag (skips if present)</li>
+              <li>Check for DO NOT SYNC</li>
               <li>Find the opposite gender variant</li>
               <li>Sync inventory levels automatically</li>
             </ul>
