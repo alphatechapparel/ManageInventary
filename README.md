@@ -378,3 +378,4 @@ This template uses [Remix](https://remix.run). The following Shopify tools are a
 # Inventarysync
 # ManageInventary
 # ManageInventary
+# ManageInventary
